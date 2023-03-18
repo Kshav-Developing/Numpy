@@ -1,2 +1,2 @@
 # Numpy
-The repository contains python files in which the module called numpy is explained and it can help you in further data management.
+The repository contains python files in which the module called numpy is explained and it can help you in further data management. It is one of the most basic module which is needed to be learnt by a newborn programmer. This tutorial will guide you through this module. But it's only for those who needs to revise numpy a little, otherwise you may need to explore there documentation for more functions.
